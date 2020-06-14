@@ -3,7 +3,7 @@
 
 Create the Twitter account that you want to tweet from. Use an email to verify it, as well as a phone number (phone numbers can be used for multiple accounts). You’ll need an email-verified Twitter account in order to get your Twitter developer account.
 
-Once you’ve created your Twitter account, go here to apply for a Twitter developer account.
+Once you’ve created your Twitter account, go [here](https://developer.twitter.com/en/apply-for-access) to apply for a Twitter developer account.
  
 choose Bot from the various choices
 fill in the forms saying you just intend to use the tweet functionality, nothing more
